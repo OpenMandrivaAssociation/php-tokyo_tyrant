@@ -5,7 +5,7 @@
 
 Summary:	Provides a wrapper to the Tokyo Tyrant client library
 Name:		php-%{modname}
-Version:	0.2.0
+Version:	0.3.0
 Release:	%mkrel 1
 Group:		Development/PHP
 License:	PHP License
