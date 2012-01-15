@@ -6,7 +6,7 @@
 Summary:	Provides a wrapper to the Tokyo Tyrant client library
 Name:		php-%{modname}
 Version:	0.6.0
-Release:	%mkrel 4
+Release:	%mkrel 5
 Group:		Development/PHP
 License:	PHP License
 URL:		http://pecl.php.net/package/tokyo_tyrant/
